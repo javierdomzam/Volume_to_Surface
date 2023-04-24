@@ -1,6 +1,8 @@
 # Simple Script for Volume to Surface Mapping 
 This script maps a set of region of interest (ROI) files from volume space to the surface of the brain using the Connectome Workbench command-line tool wb_command. The resulting surface files are saved as shape files in the specified directory.
 
+![My Image](https://github.com/javierdomzam/Volume_to_Surface/blob/main/Output_example.png?raw=true)
+
 ## Usage
 1. Set the paths to the right and left hemisphere brain surface files (brain_right and brain_left variables).
 2. Set the path to the directory containing your ROI files (ROI variable).
