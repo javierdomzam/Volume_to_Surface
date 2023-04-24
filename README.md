@@ -11,7 +11,7 @@ This script maps a set of region of interest (ROI) files from volume space to th
 
 ## Run the script.
 ```bash
-basch ./volume_to_surface.sh
+bash ./volume_to_surface.sh
 ```
 
 ## Requirements
